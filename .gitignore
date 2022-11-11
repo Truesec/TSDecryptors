@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/packages/
+**/publish/
+**/.vs/
+**/*.zip
+**/*.user
+**/*.vscode
+**/*.pfx

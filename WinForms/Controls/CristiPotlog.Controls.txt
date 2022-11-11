@@ -1,0 +1,4 @@
+These controls have been fetched from the code project below.
+https://www.codeproject.com/Articles/10808/Cristi-Potlog-s-Wizard-Control-for-NET
+
+Minor changes have been made to better fit this solutions purpose. The original code is licensed under The MIT License.
