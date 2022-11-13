@@ -1,6 +1,6 @@
 # Chaos Family Decryptors by Truesec
 
-## Target .NET Framework 4.7.2
+## Target .NET Framework 4.6.2
 Use Visual Studio 2022 and open the Truesec.Decryptors.netfx.sln
 
 If build fails with error claiming "Your project does not reference..." make sure to remove the /bin and /obj directories in the project root.
